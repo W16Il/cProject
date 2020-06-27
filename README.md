@@ -1,2 +1,2 @@
 # cProject
-First Project on C#
+First Project in C#
