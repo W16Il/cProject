@@ -1,0 +1,7 @@
+C:\Users\WILHE\source\repos\cProject\cProject\bin\Debug\cProject.exe.config
+C:\Users\WILHE\source\repos\cProject\cProject\bin\Debug\cProject.exe
+C:\Users\WILHE\source\repos\cProject\cProject\bin\Debug\cProject.pdb
+C:\Users\WILHE\source\repos\cProject\cProject\obj\Debug\cProject.csprojAssemblyReference.cache
+C:\Users\WILHE\source\repos\cProject\cProject\obj\Debug\cProject.csproj.CoreCompileInputs.cache
+C:\Users\WILHE\source\repos\cProject\cProject\obj\Debug\cProject.exe
+C:\Users\WILHE\source\repos\cProject\cProject\obj\Debug\cProject.pdb
